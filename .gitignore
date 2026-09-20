@@ -38,6 +38,13 @@
 *.exe
 *.out
 *.app
+# Binarios sin extensión generados por CLion en macOS (nombre = proyecto)
+app
+**/app
+
+# macOS
+.DS_Store
+**/.DS_Store
 
 # Build directories
 build/
