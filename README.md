@@ -1,6 +1,18 @@
 # PO_UTEC_Semana07
 
-Este repositorio contiene varios proyectos independientes en C++ (cada carpeta representa un proyecto distinto).
+Semana 07 — **Unidad 4: Vectores en C++**  
+Cada carpeta representa un ejercicio independiente.
+
+---
+
+## 📚 Sesiones de Laboratorio
+
+| Sesión | Descripción | Ejercicios |
+|--------|-------------|------------|
+| [**7A** — Operaciones básicas (CRUD)](./Sesion7A/README.md) | Crear, leer, actualizar y borrar elementos en vectores. Uso de funciones y tabla ASCII. | A1 · A2 · A3 · A4 · A5 |
+| [**7B** — Strings, búsqueda y ordenamiento](./Sesion7B/README.md) | Vectores de strings, palíndromos, vectores paralelos, `pair` y ordenamiento por frecuencia. | B1 · B2 · B3 · B4 |
+
+---
 
 ## Vectores en C++ (`std::vector`)
 
